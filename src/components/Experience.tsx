@@ -1,5 +1,4 @@
-
-import { Clock, Award } from 'lucide-react';
+import { Clock, Award, Briefcase } from 'lucide-react';
 
 const Experience = () => {
   const experiences = [
